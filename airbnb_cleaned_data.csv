@@ -1,0 +1,31 @@
+listing_id,city,neighbourhood,room_type,accommodates,bedrooms,price_per_night_usd,review_rating,number_of_reviews,host_type
+1001,New York,Manhattan,Entire home/apt,2,1,145,4.85,120,Private Host
+1002,New York,Brooklyn,Private room,1,1,78,4.62,85,Private Host
+1003,New York,Queens,Private room,2,1,65,4.4,60,Superhost
+1004,New York,Manhattan,Entire home/apt,4,2,230,4.91,150,Superhost
+1005,New York,Brooklyn,Entire home/apt,3,2,185,4.73,95,Private Host
+1006,New York,Bronx,Shared room,1,1,42,4.1,30,Private Host
+1007,New York,Queens,Entire home/apt,5,2,160,4.68,75,Superhost
+1008,New York,Manhattan,Private room,1,1,95,4.77,110,Superhost
+1009,New York,Brooklyn,Private room,2,1,88,4.55,70,Private Host
+1010,New York,Bronx,Entire home/apt,3,1,110,4.32,45,Private Host
+1011,New York,Queens,Private room,1,1,59,4.48,55,Private Host
+1012,New York,Manhattan,Entire home/apt,6,3,320,4.95,180,Superhost
+1013,New York,Brooklyn,Entire home/apt,4,2,205,4.8,105,Superhost
+1014,New York,Queens,Shared room,1,1,38,3.95,25,Private Host
+1015,New York,Bronx,Private room,2,1,55,4.25,40,Private Host
+1016,New York,Manhattan,Private room,2,1,115,4.7,130,Superhost
+1017,New York,Brooklyn,Entire home/apt,2,1,150,4.65,90,Private Host
+1018,New York,Queens,Entire home/apt,4,2,140,4.58,65,Superhost
+1019,New York,Bronx,Private room,1,1,48,4.05,35,Private Host
+1020,New York,Brooklyn,Private room,2,1,82,4.59,80,Superhost
+1021,New York,Manhattan,Entire home/apt,3,2,260,4.88,160,Superhost
+1022,New York,Queens,Private room,2,1,68,4.52,58,Private Host
+1023,New York,Brooklyn,Shared room,1,1,35,3.88,22,Private Host
+1024,New York,Manhattan,Private room,1,1,105,4.75,115,Superhost
+1025,New York,Bronx,Entire home/apt,4,2,125,4.38,50,Private Host
+1026,New York,Queens,Entire home/apt,3,2,132,4.61,72,Private Host
+1027,New York,Brooklyn,Private room,1,1,74,4.46,68,Superhost
+1028,New York,Manhattan,Entire home/apt,5,2,295,4.93,175,Superhost
+1029,New York,Queens,Private room,2,1,62,4.43,57,Private Host
+1030,New York,Brooklyn,Entire home/apt,4,2,195,4.79,100,Superhost
